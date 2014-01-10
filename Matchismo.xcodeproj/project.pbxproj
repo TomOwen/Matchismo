@@ -166,9 +166,9 @@
 			isa = PBXGroup;
 			children = (
 				58C99C0C187F265B000EBC6B /* Card.h */,
+				58C99C0D187F265B000EBC6B /* Card.m */,
 				58C97BF11880652800DC8D17 /* Deck.h */,
 				58C97BF21880652800DC8D17 /* Deck.m */,
-				58C99C0D187F265B000EBC6B /* Card.m */,
 				58C99C13187F2A2C000EBC6B /* PlayingCard.h */,
 				58C99C14187F2A2C000EBC6B /* PlayingCard.m */,
 			);
