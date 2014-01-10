@@ -24,6 +24,7 @@
 		58C99C03187F08C8000EBC6B /* MatchismoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 58C99C02187F08C8000EBC6B /* MatchismoTests.m */; };
 		58C99C0E187F265B000EBC6B /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = 58C99C0D187F265B000EBC6B /* Card.m */; };
 		58C99C15187F2A2C000EBC6B /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 58C99C14187F2A2C000EBC6B /* PlayingCard.m */; };
+		58E3785C188072EA0071D6C1 /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = 58E3785B188072EA0071D6C1 /* PlayingCardDeck.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,8 @@
 		58C99C0D187F265B000EBC6B /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Card.m; path = Matchismo/Model/Card.m; sourceTree = "<group>"; };
 		58C99C13187F2A2C000EBC6B /* PlayingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCard.h; sourceTree = "<group>"; };
 		58C99C14187F2A2C000EBC6B /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCard.m; sourceTree = "<group>"; };
+		58E3785A188072EA0071D6C1 /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCardDeck.h; sourceTree = "<group>"; };
+		58E3785B188072EA0071D6C1 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCardDeck.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +173,8 @@
 				58C97BF11880652800DC8D17 /* Deck.h */,
 				58C97BF21880652800DC8D17 /* Deck.m */,
 				58C99C13187F2A2C000EBC6B /* PlayingCard.h */,
+				58E3785A188072EA0071D6C1 /* PlayingCardDeck.h */,
+				58E3785B188072EA0071D6C1 /* PlayingCardDeck.m */,
 				58C99C14187F2A2C000EBC6B /* PlayingCard.m */,
 			);
 			name = Model;
@@ -278,6 +283,7 @@
 				58C99BEE187F08C8000EBC6B /* CardGameViewController.m in Sources */,
 				58C99BE4187F08C8000EBC6B /* main.m in Sources */,
 				58C99C15187F2A2C000EBC6B /* PlayingCard.m in Sources */,
+				58E3785C188072EA0071D6C1 /* PlayingCardDeck.m in Sources */,
 				58C97BF31880652800DC8D17 /* Deck.m in Sources */,
 				58C99C0E187F265B000EBC6B /* Card.m in Sources */,
 			);
