@@ -173,9 +173,9 @@
 				58C97BF11880652800DC8D17 /* Deck.h */,
 				58C97BF21880652800DC8D17 /* Deck.m */,
 				58C99C13187F2A2C000EBC6B /* PlayingCard.h */,
+				58C99C14187F2A2C000EBC6B /* PlayingCard.m */,
 				58E3785A188072EA0071D6C1 /* PlayingCardDeck.h */,
 				58E3785B188072EA0071D6C1 /* PlayingCardDeck.m */,
-				58C99C14187F2A2C000EBC6B /* PlayingCard.m */,
 			);
 			name = Model;
 			path = ..;
